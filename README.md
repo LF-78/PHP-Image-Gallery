@@ -1,10 +1,9 @@
-# Very simple PHP/HTML/JS image gallery (no database needed): Instagram-style grid, album browsing and fullscreen slideshow.
+## Very simple PHP/HTML/JS image gallery (no database needed): Instagram-style grid, album browsing and fullscreen slideshow.
 
 ---
 
 ## Features
 
-| Feature | Details |
 |---|---|
 | Album grid | Responsive, Instagram-style square grid |
 | Album cover | First image (ASC filename order) |
