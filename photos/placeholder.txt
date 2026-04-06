@@ -1,1 +1,13 @@
+├── photos/                 ← Your photos go here
+│   ├── my-trip/
+│   │   ├── title.txt
+│   │   ├── description.txt
+│   │   ├── 001.jpg
+│   │   ├── 002.jpg
+│   │   └── ...
+│   └── another-album/
+│       ├── title.txt
+│       ├── description.txt
+│       └── ...
+└── placeholder.txt         ← To be deleted
 
