@@ -1,20 +1,19 @@
-## Very simple PHP/HTML/JS image gallery (no database needed): Instagram-style grid, album browsing and fullscreen slideshow.
+### Very simple PHP/HTML/JS image gallery (no database needed): Instagram-style grid, album browsing and fullscreen slideshow.
 
 ---
 
 ## Features
 
-|---|---|
-| Album grid | Responsive, Instagram-style square grid |
-| Album cover | First image (ASC filename order) |
-| Album metadata | `title.txt` and `description.txt` per folder |
-| Photo grid | Responsive square grid, ASC filename order |
-| Fullscreen slideshow | Opens on photo click |
-| Navigation | ← → arrow buttons, keyboard arrows, touch swipe |
-| Thumbnail strip | Scrubable strip at the bottom of the lightbox |
-| Close | ✕ button, Escape key, or click outside the image |
-| Lazy loading | Images load on demand |
-| No dependencies | Vanilla JS + PHP, no npm, no framework |
+- Album grid: Responsive, Instagram-style square grid
+- Album cover: First image (ASC filename order)
+- Album metadata: `title.txt` and `description.txt` per folder
+- Photo grid: Responsive square grid, ASC filename order
+- Fullscreen slideshow: Opens on photo click
+- Navigation: ← → arrow buttons, keyboard arrows, touch swipe
+- Thumbnail strip: Scrubable strip at the bottom of the lightbox
+- Close: ✕ button, Escape key, or click outside the image
+- Lazy loading: Images load on demand
+- No dependencies: Vanilla JS + PHP, no npm, no framework
 
 ---
 
